@@ -1,1 +1,1 @@
-A little more about this project.
+## Comprehensive Insight into this Project.
