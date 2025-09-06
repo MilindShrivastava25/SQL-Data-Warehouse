@@ -1,3 +1,13 @@
+/*
+Script Purpose:
+    This script performs various quality checks for data consistency, accuracy, 
+    and standardization across the 'silver' layer. It includes checks for:
+    - Null or duplicate primary keys.
+    - Unwanted spaces in string fields.
+    - Data standardization and consistency.
+    - Invalid date ranges and orders.
+    - Data consistency between related fields.
+*/
 
 -- Check if primary key column is unique and not null
 SELECT 
@@ -226,4 +236,5 @@ FROM bronze.erp_px_cat_g1v2	;
 SELECT 
 	DISTINCT maintenance
 FROM bronze.erp_px_cat_g1v2	;
+
 
