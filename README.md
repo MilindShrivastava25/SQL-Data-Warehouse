@@ -41,5 +41,8 @@ Why Views?
  
  . End-to-end pipeline design to support scalable analytics.
 
+<img width="1537" height="794" alt="image" src="https://github.com/user-attachments/assets/935c5293-4122-4785-bbef-5a8acbafc013" />
+
+
  ## "Little About Me"
 ### I am Data Analyst/Scientist and I enjoy transforming raw and complex dataset into clean and actionable insight using tools like "SQL", "Python", "Power BI" and "Excel" to help business take better data-driven     decisions.
