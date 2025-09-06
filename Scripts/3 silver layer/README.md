@@ -14,3 +14,12 @@
 	    - Data standardization and consistency.
 	    - Invalid date ranges and orders.
 	    - Data consistency between related fields.
+
+# Step 3 ->
+## Inserting Transformed Data
+	Stored Procedure: Load Silver Layer (Source -> Bronze)
+		Script Purpose:
+		This stored procedure loads data into the 'silver' schema and performing transfromation.
+		It performs the following actions:
+		Truncates the bronze tables before loading data.
+		Uses the BULK INSERT command to load data from csv Files to silver tables.
