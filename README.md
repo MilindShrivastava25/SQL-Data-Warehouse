@@ -1,5 +1,5 @@
 # SQL-Data-Warehouse.
-## Modern Data Warehouse – Medallion Architecture.
+## Modern Data Warehouse – Medallion Architecture (Frmaework Used: SQL SERVER).
 ### Project Overview.
 
 This project demonstrates the implementation of a Modern Data Warehouse using the Medallion Architecture (Bronze → Silver → Gold).
