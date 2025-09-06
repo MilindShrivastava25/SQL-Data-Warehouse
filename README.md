@@ -8,21 +8,21 @@ The goal is to design a scalable, maintainable, and business-friendly data pipel
 
 ## Architecture Layers
 
-### Bronze Layer (Raw Data)
+### 🥉Bronze Layer (Raw Data)
 
 Stores data in its original form, exactly as ingested.
 
 Ensures traceability and lineage of data.
 
 
-### Silver Layer (Clean & Standardized)
+### 🥈Silver Layer (Clean & Standardized)
 
 Applies ETL transformations (cleaning, standardization, and enrichment).
 
 Ensures quality, consistency, and reliability of the data.
 
 
-### Gold Layer (Business-Ready Views)
+### 🥇Gold Layer (Business-Ready Views)
 Data is presented using Views instead of physical tables.
 Why Views?
 
