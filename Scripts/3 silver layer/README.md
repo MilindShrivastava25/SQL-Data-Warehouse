@@ -1,8 +1,8 @@
 # Step 1 ->
 ## Create table for silver schema
 	In this file:
-		1. Table for files have been created.
-		2. Data Type for each table have been set.
+		- Table for files have been created.
+		- Data Type for each table have been set.
 
   # Step 2 ->
   ## checking consistency
@@ -19,7 +19,7 @@
 ## Inserting Transformed Data
 	Stored Procedure: Load Silver Layer (Source -> Bronze)
 		Script Purpose:
-		This stored procedure loads data into the 'silver' schema and performing transfromation.
-		It performs the following actions:
-		Truncates the bronze tables before loading data.
-		Uses the BULK INSERT command to load data from csv Files to silver tables.
+			- This stored procedure loads data into the 'silver' schema and performing transfromation.
+			- It performs the following actions:
+			- Truncates the bronze tables before loading data.
+			- Uses the BULK INSERT command to load data from csv Files to silver tables.
