@@ -34,7 +34,7 @@ Why Views?
   
   . Exposes only the required information to users and dashboards.
 
-### Key Learnings
+### 📝Key Learnings
  . How to structure a data warehouse using Medallion layers.
  
  . Benefits of using Views for flexibility, performance abstraction, and security.
