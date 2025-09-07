@@ -28,7 +28,8 @@ The Gold Layer is the business-level data representation, structured to support 
 •	Purpose: Provides information about the products and their attributes.
 •	Columns:
 
-<img width="1147" height="425" alt="image" src="https://github.com/user-attachments/assets/19b4d18a-c1ed-48e4-9b50-3233b35d645f" />
+<img width="1153" height="427" alt="image" src="https://github.com/user-attachments/assets/900238b2-8638-4e2a-bc16-909661cf0c06" />
+
 
 
 
