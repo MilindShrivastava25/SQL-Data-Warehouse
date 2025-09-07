@@ -45,4 +45,4 @@ Why Views?
 
 
  ## "Little About Me"
-### I am Data Analyst/Scientist and I enjoy transforming raw and complex dataset into clean and actionable insight using tools like "SQL", "Python", "Power BI" and "Excel" to help business take better data-driven     decisions.
+### I am Data Analyst and I enjoy transforming raw and complex dataset into clean and actionable insight using tools like "SQL", "Python", "Power BI" and "Excel" to help business take better data-driven     decisions.
