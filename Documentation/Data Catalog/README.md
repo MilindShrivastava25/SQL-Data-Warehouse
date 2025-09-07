@@ -25,7 +25,8 @@ The Gold Layer is the business-level data representation, structured to support 
 ### 2. gold.dim_products
 •	Purpose: Provides information about the products and their attributes.
 •	Columns:
-<img width="978" height="357" alt="image" src="https://github.com/user-attachments/assets/20d00a3e-edcc-41c3-b6b0-d9e3b4432de0" />
+
+<img width="1147" height="425" alt="image" src="https://github.com/user-attachments/assets/19b4d18a-c1ed-48e4-9b50-3233b35d645f" />
 
 
 
@@ -35,7 +36,7 @@ The Gold Layer is the business-level data representation, structured to support 
 •	Purpose: Stores transactional sales data for analytical purposes.
 •	Columns:
 
-<img width="978" height="352" alt="image" src="https://github.com/user-attachments/assets/898bad31-b915-430b-98e3-4c8e471911be" />
+<img width="978" height="357" alt="image" src="https://github.com/user-attachments/assets/20d00a3e-edcc-41c3-b6b0-d9e3b4432de0" />
 
 
 
